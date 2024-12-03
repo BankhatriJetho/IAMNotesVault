@@ -1,0 +1,71 @@
+IAM/IGA Metrics
+=====================
+	Metrics are essential for tracking the effectiveness of IAM/IGA programs, identifying weaknesses, and 	demonstrating compliance to stakeholders.
+
+1. Why Metrics Matter
+	Measure Success: Quantify the impact of IAM/IGA initiatives.
+	Identify Gaps: Detect areas needing improvement (e.g., excessive access or delayed deprovisioning).
+	Demonstrate Compliance: Provide evidence for audits and regulatory reporting.
+
+2. Key IAM/IGA Metrics
+	Provisioning Time:
+	Measures how quickly new users are onboarded or roles are updated.
+	Goal: Minimize time to ensure productivity while maintaining security.
+	Example:
+		Average time to provision access to new hires: 2 hours.
+	
+	Deprovisioning Time:
+	Measures how quickly access is revoked after an employee leaves.
+	Goal: Immediate deprovisioning to avoid insider threats.
+	Example:
+		Average deprovisioning time: 1 business day.
+	
+	Access Review Completion Rate:
+	Tracks the percentage of access reviews completed within the deadline.
+	Goal: 100% completion rate.
+	Example:
+		Q2 Access Review Completion: 95% (5% overdue).
+
+	Dormant Account Rate:
+	Measures the percentage of accounts that haven’t been accessed for a defined period.
+	Goal: Keep dormant accounts below 2%.
+	Example:
+		Dormant Accounts in Q2: 1.5% of total accounts.
+
+	SOD Violation Count:
+	Tracks the number of identified and unresolved SOD violations.
+	Goal: Zero unresolved SOD violations.
+	Example:
+		Unresolved SOD Violations: 3 (all under investigation).
+
+	Audit Findings:
+	Tracks the number of audit issues related to IAM/IGA.
+	Goal: No major findings during audits.
+	Example:
+	Last Audit: 1 minor issue (documentation gap).
+
+3. Advanced Metrics
+	Role Optimization:
+	Percentage of roles aligned with least privilege principles.
+	Goal: 90%+ optimized roles.
+
+	Access Request Approval Time:
+	Average time it takes managers to approve/reject access requests.
+	Goal: Less than 1 business day.
+	
+	Password Reset Frequency:
+	Tracks how often users reset passwords (indicates password policy effectiveness).
+	Goal: Reduce unnecessary resets to improve productivity.
+	
+	Privileged Account Monitoring:
+	Number of privileged accounts with abnormal usage patterns.
+	Goal: Zero abnormal activity.
+
+
+
+
+
+
+
+
+
